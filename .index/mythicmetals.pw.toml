@@ -1,0 +1,16 @@
+filename = 'mythicmetals-0.24.3+1.21.jar'
+name = 'Mythic Metals'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '4634b5d78a0cb8bbe7abfb42f2c4c5521dfcd61305216f2add766698f42df0c444975b81cb235d1ac5983a1e18fec056c5c687a2c9f2e7ea7d2aff70cedb9709'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bAWzYNRd/versions/ObewgwW3/mythicmetals-0.24.3%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'bAWzYNRd'
+version = 'ObewgwW3'

@@ -1,0 +1,16 @@
+filename = 'sliceanddice-forge-4.1.1.jar'
+name = 'Create Slice & Dice'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7b4992e1ff4dc8bfce49ff8bcbb464eb6ba79f99edbe5e365028142dc16c4d720034d1482e6825de11924eac8cf3c26814d1ae8f4f133ec560c8e71e8fb29359'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GmjmRQ0A/versions/Kp0dyRrt/sliceanddice-forge-4.1.1.jar'
+
+[update.modrinth]
+mod-id = 'GmjmRQ0A'
+version = 'Kp0dyRrt'
