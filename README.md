@@ -8,3 +8,6 @@ Clone this repository into your minecraft instances main folder
 git clone https://github.com/cooperbousum/mclehigh-modpack.git
 ```
 This will probably be called .minecraft or minecraft, then rename the created directory to `mods` (overwrite your previous mods folder)
+
+### Post-Installation
+Feel free to add your own client-side mods, as these are not required to be on the server to work.
